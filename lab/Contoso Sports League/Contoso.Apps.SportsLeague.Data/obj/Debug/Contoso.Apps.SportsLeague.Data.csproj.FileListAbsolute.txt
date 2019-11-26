@@ -1,0 +1,12 @@
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll.config
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\Contoso.Apps.SportsLeague.Data.pdb
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.dll
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.xml
+C:\MCW\Contoso.Apps.SportsLeague.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\MCW\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csprojAssemblyReference.cache
+C:\MCW\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csproj.CoreCompileInputs.cache
+C:\MCW\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.csproj.CopyComplete
+C:\MCW\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.dll
+C:\MCW\Contoso.Apps.SportsLeague.Data\obj\Debug\Contoso.Apps.SportsLeague.Data.pdb

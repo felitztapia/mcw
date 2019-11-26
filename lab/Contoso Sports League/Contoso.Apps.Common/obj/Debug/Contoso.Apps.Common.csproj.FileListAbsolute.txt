@@ -1,0 +1,6 @@
+C:\MCW\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+C:\MCW\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+C:\MCW\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojAssemblyReference.cache
+C:\MCW\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csproj.CoreCompileInputs.cache
+C:\MCW\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+C:\MCW\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb
